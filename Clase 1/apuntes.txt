@@ -1,0 +1,26 @@
+JDK --> java.sun.com -> elegir la ultima version LTS
+
+Para ver si java esta instalado: java --version
+
+Extensiones para el modulo:
+
+En VSC:
+Extension Pack for Java de Microsot
+Spring initilizr Java support de Microsoft
+
+En Antigravity IDE de Gemini:
+Idem pero de otros fabricantes o ver configuracion para 
+obtener casi los mismos que en VSC.
+
+
+Clase: define la plantilla o molde de una entidad
+
+Objeto: es una instancia (ejemplar) de una clase.
+
+Estado de un objeto: conjunto de valores que toman los atributos en un determinado momento.
+
+Comportamiento de un objeto: conjunto de metodos que ejecuta.
+
+Buena practica: 
+El estado debe cambiar a traves del comportamiento
+y no hardcodeando el valor de los atributos.
