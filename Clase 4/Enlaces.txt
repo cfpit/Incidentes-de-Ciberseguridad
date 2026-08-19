@@ -1,0 +1,5 @@
+OWASP Top 10:2025
+https://owasp.org/Top10/2025/
+
+MVN Repository
+https://mvnrepository.com/
